@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">firebaseuserauthentication</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tell_me_about_yourself">Tell me about yourself ?</string>
+    <string name="textview">TextView</string>
+</resources>
